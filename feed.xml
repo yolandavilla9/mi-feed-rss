@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Mi RSS Personal</title>
+    <link>http://tupagina.com</link>
+    <description>RSS de noticias personales y locales</description>
+
+    <!-- Enlace a la web de tu ciudad o pueblo -->
+    <item>
+      <title>Ayuntamiento de Albacete</title>
+      <link>http://www.albacete.es</link>
+      <description>Mantente informado de todo lo que ocurre en la ciudad de Albacete.</description>
+    </item>
+
+    <!-- Enlace a tu propia página de datos personales -->
+    <item>
+      <title>Yolanda Fraile Jiménez - Datos Personales</title>
+      <link>personal.html</link>
+      <description>Página de datos personales de Yolanda Fraile Jiménez</description>
+    </item>
+
+  </channel>
+</rss>
